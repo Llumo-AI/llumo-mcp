@@ -6,7 +6,7 @@ _Professional documentation provided by © LLumo.ai_
 ---
 
 ## 👋 Welcome
-Welcome to the **LLumo Evaluation System** for Claude Desktop. This guide will help you set up and configure your environment.
+Welcome to the **Llumo Evaluation System** for Claude Desktop. This guide will help you set up and configure your environment.
 
 ## 📋 Prerequisites
 
@@ -113,7 +113,7 @@ To begin an evaluation, upload your dataset (e.g., an Excel file) and specify yo
 ---
 
 ## 2. Analysis Report
-LLumo processes the data and generates a comprehensive visual report with key metrics.
+Llumo processes the data and generates a comprehensive visual report with key metrics.
 
 ### 📈 Overview Dashboard
 <img src="https://github.com/user-attachments/assets/fda34255-9737-43cd-ba8d-eb145e08fc24" width="800"/>
