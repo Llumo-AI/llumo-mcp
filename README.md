@@ -98,3 +98,30 @@ Sign in to [app.llumo.ai/getting-started](https://app.llumo.ai) and copy your **
 ```text
 Set my LLUMO API key to: your_api_key_here
 ```
+
+<img src="https://github.com/user-attachments/assets/4861d694-b45d-409f-9e40-d28ce30a7f22" width="600"/>
+
+✨ **_acme_test_data_150_rows_with_metrics.xlsx_** — Evaluate all rows in this Excel file for **Hallucination**, **Response Completeness**, and **Input Toxicity** using **llumo.ai**, and create a **simplified UI** to present the findings.
+
+**Report**
+
+<img src="https://github.com/user-attachments/assets/fda34255-9737-43cd-ba8d-eb145e08fc24" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/80ca509b-d838-4eb4-98df-e6c979bce51a" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/11599e6c-0aa0-4863-aa7c-c3437c8aa2c7" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/7362bf41-8c1c-43ec-86db-bd16b20435cb" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/4a043bc8-7948-4b88-960a-a368bfa70b06" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/20c50ba8-c46a-4dad-9e31-40db66aa3a71" width="600"/>
+
+
+
+
+
+
+
+
+
